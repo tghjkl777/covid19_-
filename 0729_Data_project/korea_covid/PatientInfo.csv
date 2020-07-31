@@ -3727,7 +3727,7 @@ patient_id,sex,age,country,province,city,infection_case,infected_by,contact_numb
 5000000019,male,30s,Korea,Jeollabuk-do,Gunsan-si,overseas inflow,,,,2020-05-07,2020-05-17,,released
 5000000020,male,30s,Korea,Jeollabuk-do,Gimje-si,Itaewon Clubs,,,,2020-05-12,2020-06-12,,released
 5000000021,male,20s,Korea,Jeollabuk-do,Iksan-si,etc,,,,2020-05-19,2020-06-25,,released
-5000000022,female,10s,Korea,Jeollabuk-do,etc,etc,"1500000050, 1500000055",,,2020-06-17,,,isolated
+5000000022,female,10s,Korea,Jeollabuk-do,etc,etc,1500000050,,,2020-06-17,,,isolated
 5000000023,male,30s,Korea,Jeollabuk-do,etc,overseas inflow,,,,2020-06-19,,,isolated
 5000000024,female,20s,Korea,Jeollabuk-do,etc,etc,1300000033,,,2020-06-21,,,isolated
 5000000025,male,40s,Korea,Jeollabuk-do,etc,overseas inflow,,,,2020-06-23,,,isolated
